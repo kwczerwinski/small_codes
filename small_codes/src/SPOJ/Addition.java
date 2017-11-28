@@ -15,6 +15,6 @@ public class Addition {
 			answer = 0;
 		}
 		input.close();
-	}
-
-}
+	} //main
+	
+} //Addition
